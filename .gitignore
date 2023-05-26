@@ -22,3 +22,6 @@
 
 # R Environment Variables
 .Renviron
+
+# mermaid files
+conceptual_model_files/
