@@ -1,0 +1,47 @@
+---
+title: "Conceptual Model"
+author: "Roland Knapp, Tom Smith, Mark Wilber"
+format: html
+editor: visual
+---
+
+### Outline
+
+-   Objective: What will the conceptual model be used for?
+
+    -   Mark mentioned its potential use in developing quantitative models
+
+    -   Adaptive managment and decision analysis
+
+-   Scope: incorporate individual, population, and metapopulation/landscape levels?
+
+-   Products
+
+    -   Published paper
+
+    -   Others?
+
+### Conceptual model
+
+```{mermaid}
+flowchart LR
+  subgraph stressors
+    direction LR
+    A(Fish)
+    B(Bd)
+  end  
+  subgraph lifestages
+    direction LR
+    C(Eggs) --> D(Tadpoles)
+    D --> E(Metamorphs)
+    E --> F(Juveniles)
+    F --> G(Adults)
+  end 
+  A --> D & E & F
+  A -.-> G
+  B -.-> D
+  B --> E & F & G
+
+  
+
+```
