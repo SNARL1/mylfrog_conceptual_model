@@ -9,9 +9,14 @@ editor: visual
 
 -   Objective: What will the conceptual model be used for?
 
-    -   Mark mentioned its potential use in developing quantitative models
+    -   Mark mentioned its potential use in developing quantitative models.
 
-    -   Adaptive management and decision analysis
+    -   Adaptive management and decision analysis.
+
+    -   Ultimate goal is to understand drivers of population dynamics, effects of environment is a big piece of that.
+        Such a descriptive conceptual model would provide a useful foundation for ongoing and future modeling and other efforts.
+
+    -   How applicable is conceptual model to other taxa?
 
 -   Scope: incorporate individual, population, and metapopulation/landscape levels?
 

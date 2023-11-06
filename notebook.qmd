@@ -1,15 +1,24 @@
 ---
-title: "notebook"
+title: "Meeting Notes"
 author: "Roland Knapp, Tom Smith, Mark Wilber"
 format: html
 editor: visual
 ---
 
+### November 6, 2023
+
+-   We restarted our discussion from 5 months ago regarding the structure of the conceptual model, how the model would be used, and what the products of this effort would be.
+
+-   General consensus was to start diagramming a MYL frog conceptual model and use that process to help us to decide on model structure, products, etc.
+
+-   Mark provided several papers that would be useful for us to read, one of which develops a conceptual model for amphibians in the US Midwest.
+
 ### Next steps
-
--   Decide on diagramming tool
-
-    -   Mermaid: Quarto has native support for embedding Mermaid diagrams
 
 -   Search for papers that have developed similar conceptual models.
     Key search terms might be "adaptive management", "decision analysis".
+    Add to repo folder.
+
+-   Read papers in mylfrog_conceptual_model repo for discussion during our next meeting.
+
+-   Before the next meeting, each of us will sketch out what a conceptual model for MYL frogs might look like.
