@@ -8,7 +8,7 @@
 
 <meta name="author" content="Roland Knapp, Tom Smith, Mark Wilber">
 
-<title>Conceptual Model</title>
+<title>notebook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,19 +24,16 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="conceptual_model_files/libs/clipboard/clipboard.min.js"></script>
-<script src="conceptual_model_files/libs/quarto-html/quarto.js"></script>
-<script src="conceptual_model_files/libs/quarto-html/popper.min.js"></script>
-<script src="conceptual_model_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="conceptual_model_files/libs/quarto-html/anchor.min.js"></script>
-<link href="conceptual_model_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="conceptual_model_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="conceptual_model_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="conceptual_model_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="conceptual_model_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="conceptual_model_files/libs/quarto-diagram/mermaid.min.js"></script>
-<script src="conceptual_model_files/libs/quarto-diagram/mermaid-init.js"></script>
-<link href="conceptual_model_files/libs/quarto-diagram/mermaid.css" rel="stylesheet">
+<script src="notebook_files/libs/clipboard/clipboard.min.js"></script>
+<script src="notebook_files/libs/quarto-html/quarto.js"></script>
+<script src="notebook_files/libs/quarto-html/popper.min.js"></script>
+<script src="notebook_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="notebook_files/libs/quarto-html/anchor.min.js"></script>
+<link href="notebook_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="notebook_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="notebook_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="notebook_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="notebook_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -49,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Conceptual Model</h1>
+<h1 class="title">notebook</h1>
 </div>
 
 
@@ -70,56 +67,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="outline" class="level3">
-<h3 class="anchored" data-anchor-id="outline">Outline</h3>
+<section id="next-steps" class="level3">
+<h3 class="anchored" data-anchor-id="next-steps">Next steps</h3>
 <ul>
-<li><p>Objective: What will the conceptual model be used for?</p>
+<li><p>Decide on diagramming tool</p>
 <ul>
-<li><p>Mark mentioned its potential use in developing quantitative models</p></li>
-<li><p>Adaptive management and decision analysis</p></li>
+<li>Mermaid: Quarto has native support for embedding Mermaid diagrams</li>
 </ul></li>
-<li><p>Scope: incorporate individual, population, and metapopulation/landscape levels?</p></li>
-<li><p>Products</p>
-<ul>
-<li><p>Published paper</p></li>
-<li><p>Others?</p></li>
-</ul></li>
+<li><p>Search for papers that have developed similar conceptual models. Key search terms might be “adaptive management”, “decision analysis”.</p></li>
 </ul>
-</section>
-<section id="conceptual-model" class="level3">
-<h3 class="anchored" data-anchor-id="conceptual-model">Conceptual model</h3>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<p>
-</p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-1">flowchart LR
-  subgraph stressors
-    direction LR
-    A(Fish)
-    B(Bd)
-  end  
-  subgraph lifestages
-    direction LR
-    C(Eggs) --&gt; D(Tadpoles)
-    D --&gt; E(Metamorphs)
-    E --&gt; F(Juveniles)
-    F --&gt; G(Adults)
-  end 
-  A --&gt; D &amp; E &amp; F
-  A -.-&gt; G
-  B -.-&gt; D
-  B --&gt; E &amp; F &amp; G
-
-  
-
-</pre>
-<div id="mermaid-tooltip-1" class="mermaidTooltip">
-
-</div>
-<p></p>
-</div>
-</div>
-</div>
 </section>
 
 </main>

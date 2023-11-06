@@ -11,7 +11,7 @@ editor: visual
 
     -   Mark mentioned its potential use in developing quantitative models
 
-    -   Adaptive managment and decision analysis
+    -   Adaptive management and decision analysis
 
 -   Scope: incorporate individual, population, and metapopulation/landscape levels?
 

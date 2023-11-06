@@ -9,7 +9,7 @@ editor: visual
 
 -   Decide on diagramming tool
 
-    -   Mermaid: Quarto has native suport for embedding Mermaid diagrams
+    -   Mermaid: Quarto has native support for embedding Mermaid diagrams
 
 -   Search for papers that have developed similar conceptual models.
     Key search terms might be "adaptive management", "decision analysis".
