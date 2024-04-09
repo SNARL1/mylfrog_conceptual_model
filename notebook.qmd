@@ -5,6 +5,8 @@ format: html
 editor: visual
 ---
 
+## MEETING NOTES and HOMEWORK
+
 ### November 6, 2023
 
 -   We restarted our discussion from 5 months ago regarding the structure of the conceptual model, how the model would be used, and what the products of this effort would be.
