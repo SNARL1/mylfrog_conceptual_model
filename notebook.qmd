@@ -17,9 +17,7 @@ editor: visual
 
 ### Next steps
 
--   Search for papers that have developed similar conceptual models.
-    Key search terms might be "adaptive management", "decision analysis".
-    Add to repo folder.
+-   Search for papers that have developed similar conceptual models. Key search terms might be "adaptive management", "decision analysis". Add to repo folder.
 
 -   Read papers in mylfrog_conceptual_model repo for discussion during our next meeting.
 
@@ -59,8 +57,7 @@ editor: visual
 
 -   Products?
 
-    -   Synthesis of frog ecology (biology) and management story of 40 years and "100" publications.
-        \[Tom's note: 100 was a Tom and Mark guess, but Google Scholar returns 3600 results for "Rana muscosa\].
+    -   Synthesis of frog ecology (biology) and management story of 40 years and "100" publications. \[Tom's note: 100 was a Tom and Mark guess, but Google Scholar returns 3600 results for "Rana muscosa\].
 
         -   A mere review is unpalatable to us, and not as useful as a synthesis or model.
 
@@ -70,8 +67,7 @@ editor: visual
 
     -   Think about products we want, or that the world would want, that the CM supports (manusripts, teaching tools).
 
-        -   Take the FLAME model figure, and annotate according to three themes.
-            Do different parts of the model apply to these themes differently, or, do these themes demand that we do certain things with the model?
+        -   Take the FLAME model figure, and annotate according to three themes. Do different parts of the model apply to these themes differently, or, do these themes demand that we do certain things with the model?
 
             \[image\](images/Toms
 
@@ -85,7 +81,95 @@ editor: visual
 
         -   Consider the different areas of biology that we are less familiar with and would need literature or input to improve our model (e.g. immunology, physiology... )
 
-        -   Consider geographic and taxonomic scope - include/consider southern CA R.
-            muscosa?
+        -   Consider geographic and taxonomic scope - include/consider southern CA R. muscosa?
+
+        -   Consider scale: Individuals or Populations (or either, both?)
 
 ![Tom's original FLAME model](images/TomsFLAMEModel_w_3_stages.jpg)
+
+#### Tom's homework and annotations:
+
+-   *Think about products we want, or that the world would want, that the CM supports (manusripts, teaching tools).*
+
+> management/conservation tool: what are the "levers" we can pull, parts of the frog model that we can actually manage? For example, we cannot control weather/climate (maybe? elev. as proxy), but we might be able to control genetics, zoos might be able to influence behavior, immune priming might affect probability of A-\>A survival.
+>
+> Collaboration tool: instructing collaborators about the system, and helping them identify areas for inquiry, areas of
+
+-   *Take the FLAME model figure, and annotate according to three themes. Do different parts of the model apply to these themes differently, or, do these themes demand that we do certain things with the model?*
+
+    -   *Administration (project guidance, teaching)*
+
+    -   <div>
+
+        > time scales - the model helps identify the timescales of different process (evolution, climate are long; the life stage transitions are short)
+
+        </div>
+
+    -   *Application (conservation)*
+
+    -   <div>
+
+        > what parts of the model can we influence and change
+
+        </div>
+
+    -   *Research*
+
+    -   <div>
+
+        > We can apply this category broadly to the entire model (because it comes from our biases as researchers \[which suggests that at some stage, the model will benefit from review by others). What are the parts of the model that remain unaddressed? What parts of the model are more sensitive or robust, and have bigger roles or impacts on other parts of the model?
+
+        </div>
+
+### April 16, 2024.
+
+Attendance: Mark, Roland, Tom
+
+Mark recapped our status and last week's notes and assignments to Roland.
+
+Discussion notes:
+
+-   Is it a model of individuals or populations, or both?
+
+    -   Mark: vital rates are per individual rates that tell us something or allow us to calculate something about the population. Thinking about the CM from a particular well defined part of the **population** trajectory allowed him to get more traction.
+
+-   Mark proposed a sub-framework for thinking about each lifestage, using Biotic and Abiotic categories. The Biotic category includes consumer, competition, resource categories or processes.
+
+-   Can this framework elucidate current knowledge via three questions: what are the vital rates, what are their levels/ranges of variability, what are the mechanism of variability?
+
+```{=html}
+<!-- -->
+```
+-   Roland likes this, it puts our knowledge/data in concrete terms
+
+-   Mark: for example, a major gap is knowledge of variability in reproductive output (which is usually highly sensitive or influential in a population model).
+
+-   Mark: This is how we can highlight unknowns, then assess the feasibility of addressing the known unknowns. This addresses all three goal/product themes.
+
+-   Mark: another way to approach the model is with our Expectations? For a vital rate, if we can/can't measure it, can theory, or our knowledge of sensitivity (or elasticity?) tell us what "matters" \[lost the thread here a little - because Mark asked if I was taking notes\]
+
+    -   Roland: ...and what could the species or habitat proxy be when we can't address something?
+
+-   Lots of discussion of demographic unknowns.
+
+-   Mark: how does "this" differ from estimating vital rates?
+
+-   Can Roland develop a list of persistent unknowns and unanswered, addressable questions?
+
+-   Mark: Also, can we evaluate the degrees of knowns/unknowns/uncertainty?
+
+    -   a lot of difference in the certainty or basis for knowledge about, for examples: frog SVL/weight, survival estimates (notably different for each life stage), or things measured in Zoos (small samples, but high certainty?),
+
+        -   let's produce a table of those parameters -\> should have most of the parameters based on the table in the PNAS paper? Could assign quality of information description for each parameter.
+
+-   A great observation is that all of this model development process and discussion is extendable to the rest of RIBBiTR or any other system, for developing the structure, looking at the research needs and the known/unknown/pursuable/untouchable parameters
+
+-   **HOMEWORK for 4/23:**
+
+    -   Roland, Tom Mark assignments
+
+        -   Roland and Tom: develop your own lists of the persistent, nagging questions, unknowns, uncertainties or black boxes
+
+        -   Mark: develop parameter table, adding information about parameter value quality and sources (do not need to add parameter values).
+
+        -   Tom: develop the visual modelL iterate a third image of Mark's and Tom's sketches, and explore ways to make it digitally collaborative.
