@@ -17,13 +17,15 @@ editor: visual
 
 ### Next steps
 
--   Search for papers that have developed similar conceptual models. Key search terms might be "adaptive management", "decision analysis". Add to repo folder.
+-   Search for papers that have developed similar conceptual models.
+    Key search terms might be "adaptive management", "decision analysis".
+    Add to repo folder.
 
 -   Read papers in mylfrog_conceptual_model repo for discussion during our next meeting.
 
 -   Before the next meeting, each of us will sketch out what a conceptual model for MYL frogs might look like.
 
-### April  9, 2024
+### April 9, 2024
 
 -   Attendance: Mark, Tom
 
@@ -57,7 +59,8 @@ editor: visual
 
 -   Products?
 
-    -   Synthesis of frog ecology (biology) and management story of 40 years and "100" publications. \[Tom's note: 100 was a Tom and Mark guess, but Google Scholar returns 3600 results for "Rana muscosa\].
+    -   Synthesis of frog ecology (biology) and management story of 40 years and "100" publications.
+        \[Tom's note: 100 was a Tom and Mark guess, but Google Scholar returns 3600 results for "Rana muscosa\].
 
         -   A mere review is unpalatable to us, and not as useful as a synthesis or model.
 
@@ -67,7 +70,10 @@ editor: visual
 
     -   Think about products we want, or that the world would want, that the CM supports (manusripts, teaching tools).
 
-    -   Take the FLAME model figure <!--@mqwilber: can you add the figure here?-->, and annotate according to three themes. Do different parts of the model apply to these themes differently, or, do these themes demand that we do certain things with the model?
+        -   Take the FLAME model figure, and annotate according to three themes.
+            Do different parts of the model apply to these themes differently, or, do these themes demand that we do certain things with the model?
+
+            \[image\](images/Toms
 
         -   Administration (project guidance, teaching)
 
@@ -79,4 +85,7 @@ editor: visual
 
         -   Consider the different areas of biology that we are less familiar with and would need literature or input to improve our model (e.g. immunology, physiology... )
 
-        -   Consider geographic and taxonomic scope - include/consider southern CA R. muscosa?
+        -   Consider geographic and taxonomic scope - include/consider southern CA R.
+            muscosa?
+
+![Tom's original FLAME model](images/TomsFLAMEModel_w_3_stages.jpg)
