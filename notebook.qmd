@@ -146,7 +146,7 @@ Discussion notes:
 
 -   Mark: This is how we can highlight unknowns, then assess the feasibility of addressing the known unknowns. This addresses all three goal/product themes.
 
--   Mark: another way to approach the model is with our Expectations? For a vital rate, if we can/can't measure it, can theory, or our knowledge of sensitivity (or elasticity?) tell us what "matters" \[lost the thread here a little - because Mark asked if I was taking notes\]
+-   Mark: another way to approach the model is with our Expectations? For a vital rate, if we can/can't measure it, can theory, or our knowledge of sensitivity (or elasticity?) tell us what "matters" \[lost the thread here a little - because Mark asked if I was taking notes\] 
 
     -   Roland: ...and what could the species or habitat proxy be when we can't address something?
 
@@ -163,6 +163,16 @@ Discussion notes:
         -   let's produce a table of those parameters -\> should have most of the parameters based on the table in the PNAS paper? Could assign quality of information description for each parameter.
 
 -   A great observation is that all of this model development process and discussion is extendable to the rest of RIBBiTR or any other system, for developing the structure, looking at the research needs and the known/unknown/pursuable/untouchable parameters
+
+**Example focal goal of conceptual model**: The goal of the conceptual model is to help us understand the drivers of MYLF recovery and long-term population viability. To do this, we need to 
+
+1. Elucidate the current state of knowledge regarding MYLF vital rates defined in the conceptual model
+    -  What measurements do we have for vital rates?  What are the gaps in knowing values for specific vital rates?
+    - What is the magnitude of variability in vital rates among years?
+        - How do predictions such as demographic buffering inform which of these parameters might be the most variable? 
+        - Correlations among vital rates?
+    - What are the potential mechanisms that can affect spatial and yearly variation in these parameters?
+        - This gets at the question: What do we know about the mechanisms that can affect each parameter?
 
 -   **HOMEWORK for 4/23:**
 

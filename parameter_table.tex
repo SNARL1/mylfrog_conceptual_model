@@ -1,0 +1,120 @@
+\documentclass[letterpaper]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[left=1 in, right=1 in, top=1 in, bottom=1 in]{geometry}
+% \usepackage{hyperref}
+\usepackage{bbold}
+\usepackage{rotating}
+\usepackage{bbm}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+% \usepackage{kbordermatrix}
+\usepackage{footnote}
+\makesavenoteenv{tabular}
+\makesavenoteenv{table}
+\usepackage{pdflscape}
+% \renewcommand{\theequation}{{S}\arabic{equation}}
+
+\makeatletter
+% \addto\captionsenglish{%
+%   \renewcommand{\fnum@figure}{Figure S\thefigure}%
+%   \renewcommand{\fnum@table}{Table S\thetable}%
+% }
+\makeatother
+
+% Bibliography
+\usepackage[numbers, compress]{natbib} % Bibliography - APA
+\bibpunct{(}{)}{;}{a}{}{,}
+\usepackage{lineno} % Line numbers
+\def\linenumberfont{\normalfont\footnotesize\ttfamily}
+\setlength\linenumbersep{0.2 in}
+
+
+\usepackage{setspace}
+
+\newcommand{\ignore}[1]{}
+
+\begin{document}
+
+
+
+\begin{landscape}
+\def\arraystretch{1.5}
+\begin{table}
+
+\centering
+\tiny
+\begin{tabular}{p{6 cm} | p{4 cm} | p{4 cm} | p{4 cm} | p{4 cm}}
+\hline
+\textbf{Quantity} & \multicolumn{4}{c}{\textbf{Estimate quality}}  \\
+\hline
+\textbf{\textit{Individual vital rates}} & \textbf{Strong} (robust estimates available across multiple locations) & \textbf{Moderate} (less robust estimates; maybe available for many populations) & \textbf{Weak} (indirect estimates or estimates from other sources) & \textbf{No estimate} \\
+\hline
+Yearly survival probability of tadpoles & & Some tadpole stages can be counted with VES, but individuals cannot be tracked. Current estimates are based on extrapolating from tadpole counts in one year to newly recruited subadult counts in the next year. & &  \\
+
+\hline
+
+Yearly survival probability of subadults & & Subadults can be counted with VES, but not individually tracked. Current estimates are based on extrapolating from subadult counts in one year to newly recruited adults in the next year. & & \\
+
+\hline
+
+Yearly survival probability of adults & Estimates are available from XX populations for XX years using capture-mark-recapture methods & & & \\
+
+\hline
+
+Duration of tadpole stage & Yearly visual encounter surveys can track progression of tadpole cohorts until metamorphosis. & & \\
+
+\hline
+
+Duration of subadult stage & Yearly visual encounter surveys can track progression of subadult cohorts until reproductive maturity &  & \\
+
+\hline
+
+Probability of an adult female reproducing in a year & & & Breeding has not been observed in the field. Breeding is assumed to happen every year based on XX &  \\
+
+\hline
+
+Number of eggs produced by an adult female & & & Estimates are available from reproduction at zoo facilities, but -- despite extensive surveys -- no egg masses have been found in the field & \\
+
+\hline
+
+Survival probability of eggs & & & & No egg masses have been found in the field \\
+
+\hline
+
+Duration as egg before hatching & & & Estimates are available from animals reproducing at zoo facilities & \\ 
+
+\hline
+\textbf{\textit{Population measures}} & & & \\
+\hline
+
+Adult abundance & Visual encounter surveys, cmr studies and statistical modeling provide population size estimates for XX populations over XX years & & &  \\
+
+\hline
+
+Subadult abundance & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class [QUESTION: Are these VES surveys repeated within a primary period?]  & & \\
+
+\hline
+
+Tadpole abundance & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class [QUESTION: Are these VES surveys repeated within a primary period?] & & \\
+
+\hline
+
+Egg mass abundance & & & & No egg masses have been found \\
+
+\hline
+
+Body size distributions & Body size distribution data from XX individuals across XX locations for XX years & & & \\
+
+\hline
+\end{tabular}
+
+\end{table}
+
+\end{landscape}
+
+
+\end{document}

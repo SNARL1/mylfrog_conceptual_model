@@ -25,3 +25,11 @@
 
 # mermaid files
 conceptual_model_files/
+*.aux
+*.xdv
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+
