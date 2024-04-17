@@ -172,7 +172,7 @@ Discussion notes:
         - How do predictions such as demographic buffering inform which of these parameters might be the most variable? 
         - Correlations among vital rates?
     - What are the potential mechanisms that can affect spatial and yearly variation in these parameters?
-        - This gets at the question: What do we know about the mechanisms that can affect each parameter?
+        - This gets at the question: What do we know about the mechanisms that can affect each parameter? 
 
 -   **HOMEWORK for 4/23:**
 
