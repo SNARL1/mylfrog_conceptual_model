@@ -16,6 +16,7 @@
 \makesavenoteenv{tabular}
 \makesavenoteenv{table}
 \usepackage{pdflscape}
+\usepackage{longtable}
 % \renewcommand{\theequation}{{S}\arabic{equation}}
 
 \makeatletter
@@ -43,76 +44,81 @@
 
 \begin{landscape}
 \def\arraystretch{1.5}
-\begin{table}
-
 \centering
 \tiny
-\begin{tabular}{p{4 cm} | p{4 cm} | p{4 cm} | p{4 cm} | p{2 cm} | p{3 cm}}
+\begin{longtable}{p{4 cm} | p{4 cm} | p{4 cm} | p{4 cm} | p{2 cm} | p{3 cm}}
 \hline
 \textbf{Quantity} & \multicolumn{4}{c |}{\textbf{Estimate quality}} & \textbf{Opportunities for improvement} \\
 \hline
 \textbf{\textit{Individual vital rates}} & \textbf{Strong} (robust estimates available across multiple locations) & \textbf{Moderate} (less robust estimates; maybe available for many populations) & \textbf{Weak} (indirect estimates or estimates from other sources) & \textbf{No estimate} \\
 \hline
-Yearly survival probability of tadpoles & & Some tadpole stages can be counted with VES, but individuals cannot be tracked. Current estimates are based on extrapolating from tadpole counts in one year to newly recruited subadult counts in the next year. & &  \\
+
+
+Yearly survival probability of year 1 tadpoles & & & Year 1 tadpole stages cannot be reliably counted with VES and individuals cannot be tracked. Current estimates are based on extrapolating from tadpole counts in one year to newly recruited subadult counts in the next year.  &  \\
 
 \hline
 
-Yearly survival probability of subadults & & Subadults can be counted with VES, but not individually tracked. Current estimates are based on extrapolating from subadult counts in one year to newly recruited adults in the next year. & & \\
+Yearly survival probability of year 2 tadpoles & & Year 2 tadpoles can be reliably counted with VES, but individuals cannot be tracked. Current estimates are based on extrapolating from counts of a single cohort over time (e.g., number of 1st year tadpoles in year 1 versus number of 2nd year tadpoles in year 2) & &  \\
 
 \hline
 
-Yearly survival probability of adults & Estimates are available from XX populations for XX years using capture-mark-recapture methods & & & & \\
+Yearly survival probability of year 3 tadpoles & & Year 3 tadpoles can be reliably counted with VES, but individuals cannot be tracked. Current estimates are based on extrapolating from counts of a single cohort over time (e.g., number of 2nd year tadpoles in year 2 versus number of 3rd year tadpoles in year 3)  & &  \\
 
 \hline
 
-Duration of tadpole stage & Yearly visual encounter surveys can track progression of tadpole cohorts until metamorphosis. & & & \\
+Yearly survival probability of subadults & & Current estimates are based on extrapolating from counts of a single cohort over time (number of 1st year subadults in year 1 versus number of 2nd year subadults in year 2). & & \\
 
 \hline
 
-Duration of subadult stage & Yearly visual encounter surveys can track progression of subadult cohorts until reproductive maturity & & & \\
+Yearly survival probability of adults & Estimates are available from 10 populations for 3-17 years using capture-mark-recapture methods & & & & \\
 
 \hline
 
-Probability of an adult female reproducing in a year & & & Breeding has not been observed in the field. Breeding is assumed to happen every year based on XX & & No feasible options [Just an example, maybe there are feasible options] \\
+Duration of tadpole stage & Yearly visual encounter surveys can track progression of tadpole cohorts until metamorphosis. Estimates are available from 10 populations for 3-17 years & & & \\
 
 \hline
 
-Number of eggs produced by an adult female & & & Estimates are available from reproduction at zoo facilities, but -- despite extensive surveys -- no egg masses have been found in the field & & No feasible options \\
+Duration of subadult stage & Yearly visual encounter surveys can track progression of subadult cohorts until reproductive maturity. Estimates are available from 10 populations for 3-17 years & & & \\
 
 \hline
 
-Survival probability of eggs & & & & No egg masses have been found in the field & No feasible options in the field \\
+Probability of an adult female reproducing in a year & & & Egg laying is very rarely observed.  Current assumption that females lay eggs every year is a best guess. [TODO: See Bradford papers]  & & Following Bradford et al, females could be injected hormones to determine whether eggs are present. Given current status of species, not likely a viable option.  \\
 
 \hline
 
-Duration as egg before hatching & & & Estimates are available from animals reproducing at zoo facilities & \\ 
+Number of eggs produced by an adult female & & & Estimates are available from reproduction at zoo facilities. Despite extensive surveys, egg masses have only been found at a few sites in the field. & & Target surveys at sites where eggs have been found to get clutch size estimates. \\
+
+\hline
+
+Survival probability of eggs & & & & Few egg masses have been found in the field & Use repeat counts to estimate survival at sites where eggs can be found. \\
+
+\hline
+
+Duration as egg before hatching & & & Estimates are available from animals reproducing at zoo facilities & & Obtain from repeat counts at those sites where egg masses can be found. Duration will be influenced by temperature. \\ 
 
 \hline
 \textbf{\textit{Population measures}} \\
 \hline
 
-Adult abundance & Visual encounter surveys, cmr studies and statistical modeling provide population size estimates for XX populations over XX years & & &  \\
+Adult abundance & Visual encounter surveys, cmr studies and statistical modeling provide population size estimates for 10 populations over 3-17 years & & &  \\
 
 \hline
 
-Subadult abundance & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class [QUESTION: Are these VES surveys repeated within a primary period?] & & & Integrated population models and N-mixture modeling could disentangle detection error and subadult abundance to get estimates of true subadult abundance \\
+Subadult abundance & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class  & & & Integrated population models and N-mixture modeling could disentangle detection error and subadult abundance to get estimates of true subadult abundance \\
 
 \hline
 
-Tadpole abundance & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class [QUESTION: Are these VES surveys repeated within a primary period?] & & & Integrated population models and N-mixture modeling could disentangle detection error and tadpole abundance to get estimates of true tadpole abundance \\
+Tadpole abundance (year 1 - year 3) & & Yearly VES surveys provide abundance metrics, but models have not been used to disentangle abundance and detection error for this stage class & & & Integrated population models and N-mixture modeling could disentangle detection error and tadpole abundance to get estimates of true tadpole abundance \\
 
 \hline
 
-Egg mass abundance & & & & No egg masses have been found \\
+Egg mass abundance & & & & Egg masses have only been found at a few sites \\
 
 \hline
 
-Body size distributions & Body size distribution data from XX individuals across XX locations for XX years & & & \\
+\end{longtable}
 
-\hline
-\end{tabular}
-
-\end{table}
+% \end{table}
 
 \end{landscape}
 
