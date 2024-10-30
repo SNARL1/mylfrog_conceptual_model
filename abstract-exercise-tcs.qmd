@@ -1,0 +1,13 @@
+---
+title: "abstract-draft-tcs"
+format: html
+editor: visual
+---
+
+## 
+
+## Mountain yellow-legged frog Conceptual Model
+
+### Abstract
+
+Understanding the dynamics of one species’ individuals’ lives and population trends is a challenge that draws on many biological disciplines. It is often an academic privilege reserved for so-called “model” organisms. Such thorough, species-centric knowledge is critical to the management of sensitive, threatened, and non-model species, where effective management strategies may hinge on specific processes within the complex system that is a species and its environment. The endangered mountain yellow-legged frogs are perhaps two of the best studied endangered amphibian species in the US (world?), with decades of focused research on their relationship with introduced predators (trout) and emerging infectious disease (Bd). Despite this long-term research, they are not model species, and knowledge gaps remain with respect to what individual and population variables/processes provide the most effective management/recovery strategies. Here, our objective was to “build” a conceptual model for mountain yellow-legged frog individuals and populations, with an emphasis on the role of the environment and disease ecology (Bd), to facilitate future research and management. To accomplish this objective, we first defined “conceptual model”, and delineated boundaries for our model. We iteratively brainstormed biological processes we wanted to include in the model, based on our cumulative decades of studying and quantitatively modeling the species. After reaching an initial basic model structure that we nicknamed “FLAMED” (four life stage anuran model, with environment and disease), we reviewed our and others’ literature, and returned to brainstorming to update our model’s structure and contents. For all states, variables, processes, or transitions in the model, we used literature to provide references/descriptions or ranges for relevant values (either from mountain yellow-legged frogs or other taxa). Lastly, to aid in communication, we assembled those descriptions and values into tables and text, and refined a graphical representation of the model. By unifying the processes that shape mountain yellow-legged frog populations in a landscape of disease into one model, we have created a tool for our use and others’ use in study design, interpretation of results, communication and research integration.
