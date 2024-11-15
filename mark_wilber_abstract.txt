@@ -1,0 +1,78 @@
+## Conceptual model for MYL frog dynamics, abstract
+
+Recovering populations and viability analysis: Deciphering what we need to know, what we do know, and what we do not know.
+
+
+- Facilitating the recovery of populations: Recovery of populations 
+
+Conceptual model:
+
+1. Useful for academic purposes
+	- Many different questions that we can ask
+
+And advertisement for basic and conservation research in the MYL frog system.
+
+
+Open data vs. open "systems"
+
+- You can provide all of the data that you want, but detailed knowledge of the system is still going to prevent community research into the system.  System specific knowledge (in addition to system specific data) is often in the hands of a few, residing in anecdotal stories and specific field experiences.  This system-specific knowledge is the key context upon which additional data analyses can be built.  Without this system-specific knowledge, open data and reproducible research policies only get you so far.  
+
+Here, we illustrate describe in our opinion what is a key missing aspect of the the "open science" movement -- "open systems".  We want to move beyond reproducible research and into generative research -- where data and system-specific knowledge is taken out of the hands of the select few who have knowledge of the data and of the system to ask .  In addition to reproducing studies that (a key metric), and "open systems" approach is about providing a sufficient information that researchers outside the select few can
+
+- Forkability: Road map: Current state of knowledge 
+	- Outline: Reproducibility + Tortilla
+
+1. Synthesizing disparate studies together 
+	- Many systems have many studies published. Each of these studies tells part of the whole story, but pulling these together is crucial 
+	- Is this just a literature cited list?
+2. Developing a conceptual model that synthesizes existing knowledge (published and unpublished)
+	-  What does this model look like
+3. Highlighting key knowledge gaps
+
+Often a study system will have to be relatively mature 
+
+This is a scary prospect and one we do not advocate for lightly.  
+
+The MYLF frog system provides a unique case study in the world of disease ecology.
+
+	1. Influential in many broadly general findings within disease ecology (i.e., load-dependent dynamics, the importance of disease-induced declines, ecological resilience) 
+	2. Provided a seminal system for understanding the recovery of populations following
+	3. Well-studied demography
+
+
+
+Part of the paper
+
+1. Identifying a journal 
+2. Paper type in the journal
+	- Trends in Ecology and Evolution
+		- 
+	- Ecology Letters
+	- Frontiers of Ecology and Environment (Good one for management)
+
+
+
+Case study:
+
+- Theoretical questions
+
+- General conservation questions   
+
+- System-specific conservation questions
+
+- Management piece is a really import
+	- Adaptive management framework
+		- Open research 
+		- How is this updatable: It is not static?
+	- Updating process
+	- How is this constantly updated
+		- Is is open of is it curated
+- Really important for management
+- Understand the current state of knowledge
+
+
+	Much historical data is publically available from this site (citations), making this system amenable.  However, a key missing piece is a conceptual synthesis of the drivers
+
+disease-induced declines and recovery that is amenable to basic science questions and fundamental conservation questions.  There have been X publications.  There are X data sets published
+
+What have learned and where are we going? 
