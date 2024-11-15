@@ -8,6 +8,35 @@ editor: visual
 
 ## Mark's thoughts
 
+**Goal of open systems**: Someone unfamiliar with a system can take a codified "open system" and they can *ask* and *answer* a new question that the creators of the open system haven't thought of yet, given the infrastructure (data, products, etc.) that already exist for the system.
+
+-   Note that *asking* and *answering* questions with *existing* infrastructure are all key here.
+
+    -   *Asking* on its own is not unique to an open system.
+        But an open system facilitates neophytes of the system to ask novel, important questions quickly.
+
+    -   *Answering* with *existing infrastructure*: Science proceeds by people building on each others ideas.
+        The open systems facilitate this by allowing new researchers to use existing infrastructure to answer questions that have been facilitated by the open system.
+
+        -   I specifically am thinking about data, but this could apply to other infrastructure such as personal networks...for example, contrast Sam Lapp working with Tom and Roland in Sierras compared to trying to work with unnamed Panamamian amphibian disease researcher where infrastructure is not open.
+
+        -   Metadata and reproducibility play a big role in allowing new researchers to answer questions with existing data/infrastructure, while the conceptual model allows new researchers to formulate and contextualized questions.
+
+```{=html}
+<!-- -->
+```
+-   Constrast this with "open science" and "reproducible science": Here, the a goal is that someone can reproduce an analysis you have already done.
+    They are asking and answering a question you have already asked.
+
+-   "Open science" is a critical foundation for "open systems".
+    You can't have open systems without open science.
+    But the focus of open systems is on *generative* science in addition to reproducible science.
+
+-   Conceptual models are key for asking new questions.
+    Open science is key for being able to answer those questions.
+    Conceptual model + open science = open systems.
+    A simplification, but a place to start.
+
 ## Tom's thoughts
 
 ## Roland's thoughts
