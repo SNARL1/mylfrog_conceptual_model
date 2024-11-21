@@ -22,9 +22,8 @@ editor: visual
 
         -   Metadata and reproducibility play a big role in allowing new researchers to answer questions with existing data/infrastructure, while the conceptual model allows new researchers to formulate and contextualized questions.
 
-```{=html}
 <!-- -->
-```
+
 -   Constrast this with "open science" and "reproducible science": Here, the a goal is that someone can reproduce an analysis you have already done.
     They are asking and answering a question you have already asked.
 
@@ -36,6 +35,54 @@ editor: visual
     Open science is key for being able to answer those questions.
     Conceptual model + open science = open systems.
     A simplification, but a place to start.
+
+### Some challenges and thoughts on open systems
+
+-   *Conjecture*: Maturation of a system is critical for open science to apply.
+    Open science it really not all that useful if there are too many unknowns in the system, because the "new" scientist doesn't gain much from a conceptual synthesis of the system.
+    When does a system become mature enough for an open systems approach to apply \[specifically, generative research can be done from existing data, metadata, and a conceptual model of the system\]?
+
+-   Open systems requires additional commitments and efforts from system specialists.
+    In addition to sharing data and metadata, they also need to put effort into synthesis beyond their published work, developing a conceptual model that is accessible to the "new system scientist".
+    First, researchers might not have time to so this.
+    There is really no incentive for this in the current system.
+    Second, researchers definitely don't want to get scooped.
+    There is already hesitancy with sharing data, there would be even more hesitancy with sharing system specific knowledge ins a synthesized and digestable form.
+    Again, what incentives are there for some new researchers to ask questions in "your system", with "your data", using "your synthesized knowledge".
+    I expect that this would get a lot of push back.
+
+-   In reality, would anybody do this?
+    Does it offer a significant boost in efficiency than some "new" scientist just trying to synthesize and develop a conceptual model from published literature without ever contacting the "system expert"?
+    This option certainly saves the establishing system expert time.
+
+-   In addition, this information system is not static!
+    Even after a big initial investment from the systems expert the idea is that the conceptual model would be continually updated.
+    This requires effort, incentive, and desire to do this.
+
+-   In some ways, one extreme of this approach to completely remove the "system expert" as a gateway to generative research in a system (i.e., I could ask and answer a cool new question in MYL frogs systems without ever talking to Roland or setting foot in the system).
+    Seems terrible when framed like that, but I think that is one extreme of this viewpoint.
+    Is that desirable or even possible?
+    In some ways, I don't think it is possible.
+    Observing a system for yourself vs. digesting someone's conceptual model of a system are very different.
+    If this extreme is not feasible, what then is the goal?
+
+**Thought experiment on why this is or isn't useful**
+
+### Some relevants papers
+
+*Baker et al. 2007*, *Journal of Intelligent Information Systems*
+
+-   Relevant paper summarizing the challenges the LTERs face when sustaining long-term datasets, facilitating comparisons between datasets, and producing knowledge from data.
+
+-   A couple useful concepts: Information systems, information ecology, the "middleware" (people, software, widgets that are needed to make disparate sets of knowledge/data interoperable).
+
+Good quotes from Baker et al. 2007
+
+-   *It is essentially an altruistic act in a highly competitive world for a scientist to take the time to make their data usable by someone else; particularly when they do not necessarily anticipate any return on their investment in terms of reusable data from elsewhere*
+
+-   *‘how do we build an open information environment?’—a purposefully leaky, data-diverse, tension-balancing information ecology that recognizes uncertainty and facilitates change.*
+
+-   *An information environment isn’t something you finish, it is something you start*
 
 ## Tom's thoughts
 
