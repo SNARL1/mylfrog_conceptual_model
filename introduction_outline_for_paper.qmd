@@ -100,6 +100,7 @@ Good quotes from Baker et al. 2007
 - The LTERs seem a very useful case study.
   By their nature, LTERs must create a way to pass questions, knowledge and data, infrastructure between generations of researchers. 
   Many systems are effective if not so-called LTERs. 
+  Other long-term studies have ended with the careers of their PIs (I know one example).
 
 - Open systems are already functioning and widespread, although each 'system' may exist at a small(er) scale: labs that incorporate graduate students, and LTERs.
 
