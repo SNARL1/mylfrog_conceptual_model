@@ -68,7 +68,7 @@ editor: visual
 
 **Thought experiment on why this is or isn't useful**
 
-### Some relevants papers
+### Some relevant papers
 
 *Baker et al. 2007*, *Journal of Intelligent Information Systems*
 
