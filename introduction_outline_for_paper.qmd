@@ -6,6 +6,26 @@ editor: visual
 
 # Introduction/Outline
 
+
+## Overview
+
+- Don't dive too deep into knowledge systems, information ecology, information systems
+- The focus here is that we acknowledge that this field exists and we emphasize our attempt to implement an open system.  We are focusing on the practical, rather than the philosophical.
+
+
+## Benefits of open systems
+
+- List of benefits of open systems 
+
+
+## Challenges of open systems
+
+- List of the challenges of open systems 
+
+
+---
+
+
 ## Mark's thoughts
 
 **Goal of open systems**: Someone unfamiliar with a system can take a codified "open system" and they can *ask* and *answer* a new question that the creators of the open system haven't thought of yet, given the infrastructure (data, products, etc.) that already exist for the system.
@@ -110,3 +130,7 @@ Good quotes from Baker et al. 2007
   Obviously, lots of people we don't know personally at other LTERs and long term studies. 
 
 ## Roland's thoughts
+
+
+
+
