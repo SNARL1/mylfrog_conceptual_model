@@ -9,8 +9,19 @@ editor: visual
 
 ## Overview
 
-- Don't dive too deep into knowledge systems, information ecology, information systems
-- The focus here is that we acknowledge that this field exists and we emphasize our attempt to implement an open system.  We are focusing on the practical, rather than the philosophical.
+- The philosophy of open science has emerged in the last XX years as a cornerstone of modern research (Allen, PloS Bio 2019).  In its essence, open science focuses on the reproducibility of research, providing accessible research resources (code, data, materials, etc) and published documents (e.g., open source articles) that allow for replication and reanalysis of existing studies (Table 1: Allen).
+- While open science's focus on reproducibility is critical for building robust foundations for new studies to build upon, the core philosophy of open science is to indirectly enable new research by solidifying the veracity of previous research. 
+- However, science is ultimately about generating new knowledge. We propose the concept of "open systems" as a useful, but little used framework in ecology and environmental science to enable mature research systems to reproduce existing knowledge and generate new knowledge. 
+
+- We define an "open system" practically in terms of the goal that it seeks to achieve.  In an "open system", someone unfamiliar with the system (e.g., ) can interface with a conceptual model of the system to ask and answer a new question that the "creators" of open system haven't thought of yet, given the infrastructure (data, research, etc.) that already exist for the system.  
+- The concept of "open systems" are not new in their philosophy.  The broad field of "knowledge systems" and "information ecology" have thought deeply about how to integrate and synthesize multiple streams of ecological and environmental knowledge. 
+- More here on "knowledge systems" background.  But not too much!
+- Our goal in this paper is one of practitioners and not philosophers. As researchers in a system that we have cumulatively worked in for X years, we are concerned with X questions.  
+    - What are the benefits and challenges of trying to make a mature ecological research system into an open system?  
+    - What are the steps needed to transform our system into an open system that can produce generative research without our constant input?
+    - [Other questions]
+
+- We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.  We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access [or something about support...knowledge can't be completely extracted away from system experts].  Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
 
 
 ## Benefits of open systems

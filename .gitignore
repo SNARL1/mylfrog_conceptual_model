@@ -32,4 +32,6 @@ conceptual_model_files/
 *.log
 *.synctex.gz
 
+.DS_Store
+
 
