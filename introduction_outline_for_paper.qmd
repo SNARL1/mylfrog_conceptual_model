@@ -36,16 +36,33 @@ editor: visual
     -   \[Other questions\]
 
 -   We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.
-    We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access \[or something about support...knowledge can't be completely extracted away from system experts\].
+
+    We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access support \[or something about support...knowledge can't be completely extracted away from system experts\].
     Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
+    \[Probably want to bring in conceptual models a bit more in the intro\]
 
 ## Benefits of open systems
 
 -   List of benefits of open systems
 
+1.  Access and equity:
+    1.  Not everyone has equal capacity to collect data in all systems. Providing open data and conceptual models can remove barriers to stimulate new discoveries within ecological systems.
+2.  Scientific progress
+    1.  Efficiency: Open systems provide a way for new researchers to enter a system and ask and answer new questions efficiently. Importantly, this takes the burden off the system's researchers to constantly bring new folks "up to speed".
+    2.  Allows research systems to exist somewhat independently of system-specific researchers. Improves continuity of science across generations of researchers.
+    3.  More accessibility = new research = more problems solved (and more problems raised...)
+
 ## Challenges of open systems
 
 -   List of the challenges of open systems
+
+    1.  Encapsulating multiple forms of knowledge into a conceptual model that can be used and understood by non system experts.
+        1.  A huge literature on how to do this and challenges with this approach – knowledge systems
+    2.  Initial and continuing investments in building an open system
+        1.  Very few incentives to build and maintain open systems beyond LTER-type funding mechanisms
+    3.  The reticence of letting "non-experts" work in a system
+        1.  Fear of getting "scooped"
+    4.  The impossibility of replacing the system "expert" with a conceptual model. We can't and shouldn't be completely abstracting system because not all knowledge can be captured in a conceptual model.
 
 ------------------------------------------------------------------------
 
@@ -135,7 +152,9 @@ Good quotes from Baker et al. 2007
 ### Sierra frogs+disease as modeling open system
 
 -   How have we arrived at this discussion?
+
     Does the work that began with Roland, pulled in Cherie, Vance, and Bree, then Tom, Mark, Max, now Allie, Sam, John/Kira examplify the simultaneous opportunity and challenge of being an open system?
+
     How many "failed" entrants into this system have there been?
     In other words, how many researchers have earnestly tried to work in the system and been stymied or rebuffed?
     Have important results been missed as a result of non-openness?
@@ -144,6 +163,7 @@ Good quotes from Baker et al. 2007
     And, ahem, "elitist".
 
 -   Is an open system an imperative of making science more open, accessible, and diverse?
+
     <!--# I would argue that "transparency" is a key benefit of an open system. This hasn't been mentioned specifically in our thoughts, but it brings together benefits conferred to the system's established researchers as well as outside researchers. -->
 
 -   The LTERs seem a very useful case study.
