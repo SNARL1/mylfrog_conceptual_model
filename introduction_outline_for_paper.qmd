@@ -6,36 +6,60 @@ editor: visual
 
 # Introduction/Outline
 
-
 ## Overview
 
-- The philosophy of open science has emerged in the last XX years as a cornerstone of modern research (Allen, PloS Bio 2019).  In its essence, open science focuses on the reproducibility of research, providing accessible research resources (code, data, materials, etc) and published documents (e.g., open source articles) that allow for replication and reanalysis of existing studies (Table 1: Allen).
-- While open science's focus on reproducibility is critical for building robust foundations for new studies to build upon, the core philosophy of open science is to indirectly enable new research by solidifying the veracity of previous research. 
-- However, science is ultimately about generating new knowledge. We propose the concept of "open systems" as a useful, but little used framework in ecology and environmental science to enable mature research systems to reproduce existing knowledge and generate new knowledge. 
+-   The philosophy of open science has emerged in the last XX years as a cornerstone of modern research (Allen, PloS Bio 2019).
+    In its essence, open science focuses on the reproducibility of research, providing accessible research resources (code, data, materials, etc) and published documents (e.g., open source articles) that allow for replication and reanalysis of existing studies (Table 1: Allen).
 
-- We define an "open system" practically in terms of the goal that it seeks to achieve.  In an "open system", someone unfamiliar with the system (e.g., ) can interface with a conceptual model of the system to ask and answer a new question that the "creators" of open system haven't thought of yet, given the infrastructure (data, research, etc.) that already exist for the system.  
-- The concept of "open systems" are not new in their philosophy.  The broad field of "knowledge systems" and "information ecology" have thought deeply about how to integrate and synthesize multiple streams of ecological and environmental knowledge. 
-- More here on "knowledge systems" background.  But not too much!
-- Our goal in this paper is one of practitioners and not philosophers. As researchers in a system that we have cumulatively worked in for X years, we are concerned with X questions.  
-    - What are the benefits and challenges of trying to make a mature ecological research system into an open system?  
-    - What are the steps needed to transform our system into an open system that can produce generative research without our constant input?
-    - [Other questions]
+-   While open science's focus on reproducibility is critical for building robust foundations for new studies to build upon, the core philosophy of open science is to indirectly enable new research by solidifying the veracity of previous research.
 
-- We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.  We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access [or something about support...knowledge can't be completely extracted away from system experts].  Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
+-   However, science is ultimately about generating new knowledge.
+    We propose the concept of "open systems" as a useful, but little used framework in ecology and environmental science to enable mature research systems to reproduce existing knowledge and generate new knowledge.
 
+-   We define an "open system" practically in terms of the goal that it seeks to achieve.
+    In an "open system", someone unfamiliar with the system (e.g., ) can interface with a conceptual model of the system to ask and answer a new question that the "creators" of open system haven't thought of yet, given the infrastructure (data, research, etc.) that already exist for the system.\
+
+-   The concept of "open systems" are not new in their philosophy.
+    The broad field of "knowledge systems" and "information ecology" have thought deeply about how to integrate and synthesize multiple streams of ecological and environmental knowledge.
+
+-   More here on "knowledge systems" background.
+    But not too much!
+
+-   Our goal in this paper is one of practitioners and not philosophers.
+    As researchers in a system that we have cumulatively worked in for X years, we are concerned with X questions.
+
+    -   What are the benefits and challenges of trying to make a mature ecological research system into an open system?\
+    -   What are the steps needed to transform our system into an open system that can produce generative research without our constant input?
+    -   \[Other questions\]
+
+-   We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.
+    We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access support \[or something about support...knowledge can't be completely extracted away from system experts\].
+    Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
+    \[Probably want to bring in conceptual models a bit more in the intro\]
 
 ## Benefits of open systems
 
-- List of benefits of open systems 
+-   List of benefits of open systems
 
+1.  Access and equity:
+    1.  Not everyone has equal capacity to collect data in all systems. Providing open data and conceptual models can remove barriers to stimulate new discoveries within ecological systems.
+2.  Scientific progress
+    1.  Efficiency: Open systems provide a way for new researchers to enter a system and ask and answer new questions efficiently. Importantly, this takes the burden off the system's researchers to constantly bring new folks "up to speed".
+    2.  Allows research systems to exist somewhat independently of system-specific researchers. Improves continuity of science across generations of researchers.
+    3.  More accessibility = new research = more problems solved (and more problems raised...)
 
 ## Challenges of open systems
 
-- List of the challenges of open systems 
+-   List of the challenges of open systems
+    1.  Encapsulating multiple forms of knowledge into a conceptual model that can be used and understood by non system experts.
+        1.  A huge literature on how to do this and challenges with this approach – knowledge systems
+    2.  Initial and continuing investments in building an open system
+        1.  Very few incentives to build and maintain open systems beyond LTER-type funding mechanisms
+    3.  The reticence of letting "non-experts" work in a system
+        1.  Fear of getting "scooped"
+    4.  The impossibility of replacing the system "expert" with a conceptual model. We can't and shouldn't be completely abstracting system because not all knowledge can be captured in a conceptual model.
 
-
----
-
+------------------------------------------------------------------------
 
 ## Mark's thoughts
 
@@ -116,32 +140,30 @@ Good quotes from Baker et al. 2007
 -   *An information environment isn’t something you finish, it is something you start*
 
 ## Tom's thoughts
-### Sierra frogs+disease as modeling open system 
-- How have we arrived at this discussion?
-  Does the work that began with Roland, pulled in Cherie and Bree, then Tom, Mark, Max, now Allie, Sam, John/Kira examplify the simultaneous opportunity and challenge of being an open system?
-  How many "failed" entrants into this system have there been?
-  In other words, how many researchers have earnestly tried to work in the system and been stymied or rebuffed?
-  Have important results been missed as a result of non-openness?
 
-- I believe an incentive is that last point: a non-open system may become siloed, biased, and self-reinforcing. 
-  And, ahem, "elitist".
+### Sierra frogs+disease as modeling open system
 
-- Is an open system an imperative of making science more open, accessible, and diverse?
+-   How have we arrived at this discussion?
+    Does the work that began with Roland, pulled in Cherie and Bree, then Tom, Mark, Max, now Allie, Sam, John/Kira examplify the simultaneous opportunity and challenge of being an open system?
+    How many "failed" entrants into this system have there been?
+    In other words, how many researchers have earnestly tried to work in the system and been stymied or rebuffed?
+    Have important results been missed as a result of non-openness?
 
-- The LTERs seem a very useful case study.
-  By their nature, LTERs must create a way to pass questions, knowledge and data, infrastructure between generations of researchers. 
-  Many systems are effective if not so-called LTERs. 
-  Other long-term studies have ended with the careers of their PIs (I know one example).
+-   I believe an incentive is that last point: a non-open system may become siloed, biased, and self-reinforcing.
+    And, ahem, "elitist".
 
-- Open systems are already functioning and widespread, although each 'system' may exist at a small(er) scale: labs that incorporate graduate students, and LTERs.
+-   Is an open system an imperative of making science more open, accessible, and diverse?
 
-- People with experience in LTERs: Cherie, Carol, Sally McIntyre. 
-  Cherie might be interesting to get a perspective from, because of her transition (as I percieve it) into the Moorea LTER as a person who came to a system rich in data.
-  Carol has been on the SBC LTER for a long time, more on the empirical side. 
-  Obviously, lots of people we don't know personally at other LTERs and long term studies. 
+-   The LTERs seem a very useful case study.
+    By their nature, LTERs must create a way to pass questions, knowledge and data, infrastructure between generations of researchers.
+    Many systems are effective if not so-called LTERs.
+    Other long-term studies have ended with the careers of their PIs (I know one example).
+
+-   Open systems are already functioning and widespread, although each 'system' may exist at a small(er) scale: labs that incorporate graduate students, and LTERs.
+
+-   People with experience in LTERs: Cherie, Carol, Sally McIntyre.
+    Cherie might be interesting to get a perspective from, because of her transition (as I percieve it) into the Moorea LTER as a person who came to a system rich in data.
+    Carol has been on the SBC LTER for a long time, more on the empirical side.
+    Obviously, lots of people we don't know personally at other LTERs and long term studies.
 
 ## Roland's thoughts
-
-
-
-
