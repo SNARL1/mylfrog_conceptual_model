@@ -17,13 +17,15 @@ editor: visual
 -   However, science is ultimately about generating new knowledge.
     We propose the concept of "open systems" as a useful, but little used framework in ecology and environmental science to enable mature research systems to reproduce existing knowledge and generate new knowledge.
     <!--# "Open system" is a somewhat ambiguous descriptor because it has many meanings in ecology. E.g., an open ecosystem is one that doesn't have distinct boundaries, etc. A less ambiguous term would be "open information system" -->
+    <!--# In the Argent paper, I appreciated the distinction or semantic nuance of "knowledge model" versus "concept model". Knowledge model feels slightly more concrete to me, so perhaps that applies here to, wrt framing this as development of an open information system or open knowledge system -->
 
 -   We define an "open system" practically in terms of the goal that it seeks to achieve.
     In an "open system", someone unfamiliar with the system (e.g., ) can interface with a conceptual model of the system to ask and answer a new question that the "creators" of open system haven't thought of yet, given the infrastructure (data, research, etc.) that already exist for the system.
     <!--# I would suggest a broader definition: an open information system describes an understanding of a system at a given point in time. This system can be used by those working in the system as a refernce for developing new research questions, or by someone unfamiliar with the system to address new questions. This broader phrasing gets around the question of why anyone would want to put time into developing an open information system when it will only be used by "outsiders".  -->\
+    <!--# Complementing RK's last point about a model or information system only being used by outsiders and therefore having little value to the people who build it, making sure that system is broad enough to be used beyond those "insiders" seems similarly important. I think this was referenced in the concept model best practices. -->
 
 -   The concept of "open systems" are not new in their philosophy.
-    The broad field of "knowledge systems" and "information ecology" have thought deeply about how to integrate and synthesize multiple streams of ecological and environmental knowledge.
+    The broad fields of "knowledge systems" and "information ecology" have thought deeply about how to integrate and synthesize multiple streams of ecological and environmental knowledge.
 
 -   More here on "knowledge systems" background.
     But not too much!
@@ -34,12 +36,14 @@ editor: visual
     -   What are the benefits and challenges of trying to make a mature ecological research system into an open system?\
     -   What are the steps needed to transform our system into an open system that can produce generative research without our constant input?
     -   \[Other questions\]
+    -   Who should the stakeholders, contributors, and expected beneficiaries be?
 
 -   We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.
 
     We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access support \[or something about support...knowledge can't be completely extracted away from system experts\].
     Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
     \[Probably want to bring in conceptual models a bit more in the intro\]
+    <!--# I think the best practices in conceptual modeling have a place here. -->
 
 ## Benefits of open systems
 
@@ -47,6 +51,8 @@ editor: visual
 
 1.  Access and equity:
     1.  Not everyone has equal capacity to collect data in all systems. Providing open data and conceptual models can remove barriers to stimulate new discoveries within ecological systems.
+    2.  Removes perceived ownership.
+    <!--# removal of ego -->
 2.  Scientific progress
     1.  Efficiency: Open systems provide a way for new researchers to enter a system and ask and answer new questions efficiently. Importantly, this takes the burden off the system's researchers to constantly bring new folks "up to speed".
     2.  Allows research systems to exist somewhat independently of system-specific researchers. Improves continuity of science across generations of researchers.
@@ -60,8 +66,12 @@ editor: visual
         1.  A huge literature on how to do this and challenges with this approach – knowledge systems
     2.  Initial and continuing investments in building an open system
         1.  Very few incentives to build and maintain open systems beyond LTER-type funding mechanisms
+        <!--# right, I was going to add this! Perhaps because I have already read this doc once... Typical short grant cycles force us to always move on, trends in funding and the coming and going of particular programs force us to adjust research programs in ways that may not naturally emerge from the filled and empty parts of the knowledge system -->
     3.  The reticence of letting "non-experts" work in a system
-        1.  Fear of getting "scooped"
+        1.  Fear of getting "scooped".
+        2.  Removes perceived ownership.
+        3.  Fear of, or actual, loss of control of narrative.
+        <!--# trendiness, homogenization, dilettantes, and safety: do others share a feeling of wariness of inspiring others to jump into a field with the risk of having essentially a social-media evolution towards homogeneity, reduction in quality, and eventual "injury"/disullusionment/backlash of people who were unprepared? -->
     4.  The impossibility of replacing the system "expert" with a conceptual model. We can't and shouldn't be completely abstracting system because not all knowledge can be captured in a conceptual model.
 
 ------------------------------------------------------------------------
@@ -80,6 +90,8 @@ editor: visual
         The open systems facilitate this by allowing new researchers to use existing infrastructure to answer questions that have been facilitated by the open system.
 
         -   I specifically am thinking about data, but this could apply to other infrastructure such as personal networks...for example, contrast Sam Lapp working with Tom and Roland in Sierras compared to trying to work with unnamed Panamamian amphibian disease researcher where infrastructure is not open.
+        <!--# Interestingly, Sam is an example of a collaborator who has worked well with us because exceeded a "threshold" of engaging with us in a meaningful way to learn about the challenges of the system, invested his own effort and did not expect to be fed samples/data/fieldwork; he used some extensive discussions to identify a knowledge gap and then fully owned that research. -->
+        <!-- Contrast that to there has never been terribly successful collabs in the immunology space because no one has seemed to engage in that way for the Sierra, although they seem to have done so in Panama. -->
 
         -   Metadata and reproducibility play a big role in allowing new researchers to answer questions with existing data/infrastructure, while the conceptual model allows new researchers to formulate and contextualized questions.
 
@@ -149,6 +161,8 @@ Good quotes from Baker et al. 2007
 
 ## Tom's thoughts
 
+I have also placed comments above. 
+
 ### Sierra frogs+disease as modeling open system
 
 -   How have we arrived at this discussion?
@@ -177,6 +191,11 @@ Good quotes from Baker et al. 2007
     Cherie might be interesting to get a perspective from, because of her transition (as I percieve it) into the Moorea LTER as a person who came to a system rich in data.
     Carol has been on the SBC LTER for a long time, more on the empirical side.
     Obviously, lots of people we don't know personally at other LTERs and long term studies.
+
+-   Can the process of creating the open system and concept/knowledge model idenfify who the "gatekeepers" to that system are?
+    Its natural that throughout a things life, a person will become its leader, authority, owner, point of contact, what have you.
+    Gatekeepers are both beneficial and restrictive, because in a simultaneously Tolkienesque/Monty Pythonesque depiction, they can judge your readiness to proceed, decide if you shall, and helpfully point you on your way/mentor you (or cast you into eternal peril). 
+    Are they Gandalf, or the Old Man from Scene 24?
 
 ## Roland's thoughts
 
