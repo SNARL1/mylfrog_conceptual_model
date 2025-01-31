@@ -37,11 +37,16 @@ editor: visual
 
 -   We first discuss what we see as the benefits and challenges of developing open systems more generally in ecological systems.
 
-    We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access support \[or something about support...knowledge can't be completely extracted away from system experts\].
+    We then focus in on our ecological research system and discuss three components that we believe can transform our system from a reproducible system focused on open science to an open system ripe for asking generative ecological questions: i) data availability ii) a conceptual model and iii) access support \[or something about support...knowledge can't be completely extracted away from system experts...infrastructure\].
     Overall, this paper provides a case study for the benefits and challenges of creating open systems in mature ecological research systems.
     \[Probably want to bring in conceptual models a bit more in the intro\]
 
-## Benefits of open systems
+    -   Figure 1: Make a figure with three components: reproducibility -\> conceptual model -\> infrastructure access
+
+        -   Infrastructure access: How do partners access the data and the conceptual model?
+            They don't use Github etc.
+
+## Benefits of open information systems
 
 -   List of benefits of open systems
 
@@ -52,7 +57,7 @@ editor: visual
     2.  Allows research systems to exist somewhat independently of system-specific researchers. Improves continuity of science across generations of researchers.
     3.  More accessibility = new research = more problems solved (and more problems raised...)
 
-## Challenges of open systems
+## Challenges of open information systems
 
 -   List of the challenges of open systems
 
